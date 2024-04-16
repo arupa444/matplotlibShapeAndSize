@@ -32,6 +32,12 @@ from shapeAndSize import *
 from shapeAndSize import square
 square.plot(5)
 ```
+![Square with length 5](image/squarePlotCode.png)
+
+# Output
+
+![Square with length 5 plot](image/squarePlot.png)
+
 
 ## Documentation
 
