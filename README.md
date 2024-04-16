@@ -1,4 +1,4 @@
-# ShapeAndSize Library
+# shapeAndSize Library
 
 The ShapeAndSize library is a Python library built using matplotlib that allows users to plot various geometric shapes like squares, rectangles, triangles, and more based on user input. It also provides functionalities to calculate the area, perimeter, diagonal, and other properties of these shapes.
 
@@ -23,12 +23,15 @@ The ShapeAndSize library is a Python library built using matplotlib that allows 
 Here's an example of how to use the ShapeAndSize library to plot a square:
 
 ```python
-from ShapeAndSize import square
+from shapeAndSize import *
+#for all the shapes
 ```
 
 # Plot a square with side length 5
+```python
+from shapeAndSize import square
 square.plot(5)
-
+```
 
 ## Documentation
 
