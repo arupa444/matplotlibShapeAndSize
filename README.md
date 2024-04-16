@@ -32,11 +32,11 @@ from shapeAndSize import *
 from shapeAndSize import square
 square.plot(5)
 ```
-![Square with length 5](image/squarePlotCode.png)
+![Square with length 5](image/squarePlotCodehh.png)
 
 # Output
 
-![Square with length 5 plot](image/squarePlot.png)
+![Square with length 5 plot](image/squarePlhhot.png)
 
 
 ## Documentation
