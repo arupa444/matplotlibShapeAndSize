@@ -5,7 +5,7 @@ The ShapeAndSize library is a Python library built using matplotlib that allows 
 ## Features
 
 - **Square**: Plot and compute area, perimeter, and diagonal of a square.
-  ![Triangle plot](image/triangle.png)
+  ![Triangle plot](image/trianglePlot.png)
 
 - **Rectangle**: Plot and compute area, perimeter, and diagonal of a rectangle.
 - **Triangle**: Plot and compute area, perimeter, and height of a triangle.
