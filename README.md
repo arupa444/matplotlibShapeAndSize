@@ -34,9 +34,33 @@ square.plot(5)
 ```
 ![Square with length 5](image/squarePlotCode.png)
 
-# Output
+### Output
 
 ![Square with length 5 plot](image/squarePlot.png)
+
+
+# Plot a Triangle with sides 3,4,5
+```python
+from shapeAndSize import traingle
+triangle.plot(3,4,5)
+```
+![Plot a Triangle with sides 3,4,5](image/trianglePlotCode.png)
+
+### Output
+
+![Plot a Triangle with sides 3,4,5](image/trianglePlot.png)
+
+
+# Ractangle with sides (20,30) ,marker-'*',LineStyle-'dotted' and color-'blue' 
+```python
+from shapeAndSize import *
+ractangle.plot(20,30,'*','dotted','blue')
+```
+![Ractangle with sides (20,30) ,marker-'*',LineStyle-'dotted' and color-'blue' ](image/ractanglePlotCode.png)
+
+### Output
+
+![Ractangle with sides (20,30) ,marker-'*',LineStyle-'dotted' and color-'blue' ](image/ractanglePlot.png)
 
 
 ## Documentation
