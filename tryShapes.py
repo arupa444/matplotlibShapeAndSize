@@ -2,7 +2,8 @@ from shapeAndSize import *
 triangle.plot(3,4,20)
 anyShape.plot(4,6)
 
-# markers are: 
+# Unfilled Markers:
+
 # 'o': Circle (default)
 # 's': Square
 # '^': Triangle (pointing upwards)
@@ -22,3 +23,14 @@ anyShape.plot(4,6)
 # 'p' (lowercase p): Pentagon
 # 'P' (uppercase P): Thick pentagon
 # '#': Hash
+# Filled Markers:
+
+# You can create filled markers by setting the markerfacecolor property. Here are some examples using unfilled markers as a base:
+
+# 'o': Filled circle
+# 's': Filled square
+# '^': Filled triangle (pointing upwards)
+# 'v': Filled triangle (pointing downwards)
+# < (less than sign): Filled triangle (pointing left)
+# `>' (greater than sign): Filled triangle (pointing right)
+
