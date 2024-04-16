@@ -56,7 +56,7 @@ triangle.plot(3,4,5)
 from shapeAndSize import *
 ractangle.plot(20,30,'*','dotted','blue')
 ```
-![Ractangle with sides (20,30) ,marker-'*',LineStyle-'dotted' and color-'blue' ](image/ractanglePlotCode.png)
+![Ractangle with sides (20,30) ,marker-'*',LineStyle-'dotted' and color-'blue' ](image/rectanglePlotCode.png)
 
 ### Output
 
