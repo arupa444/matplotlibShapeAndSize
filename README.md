@@ -22,7 +22,7 @@ The ShapeAndSize library is a Python library built using matplotlib that allows 
 
 Here's an example of how to use the ShapeAndSize library to plot a square:
 
-\`\`\`python
+\`\`\`
 from ShapeAndSize import square
 
 # Plot a square with side length 5
