@@ -57,4 +57,4 @@ We welcome contributions! If you have any ideas for improvements or new features
 
 ## License
 
-This project is not yet licensed. Wasn't went for that yet 
+This project is not yet licensed. Wasn't went for that yet.
