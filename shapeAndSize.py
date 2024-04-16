@@ -18,7 +18,7 @@ class square():
     def diagonal(side):
         z= ((side ** 2) + (side ** 2)) ** (1 / 2)
         return(float(z))
-class ractangle():
+class rectangle():
     def plot( length, breadth, marker='none', linestyle='solid', color='m'):
         x = array([0, 0, length, length, 0])
         y = array([0, breadth, breadth, 0, 0])
