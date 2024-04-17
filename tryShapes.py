@@ -1,6 +1,9 @@
 from shapeAndSize import *
 triangle.plot(3,4,20)
 anyShape.plot(4,6)
+# rhombus.plot(10,20)
+# print(triangle.area(11,14,20,'*','dotted','red'))
+star.plot(20,'*')
 
 # Unfilled Markers:
 
