@@ -69,10 +69,7 @@ class triangle():
         return(float(height))
 class equilateralTriangle():
     def  plot(base ,marker='none' ,linestyle='solid' ,color='m'):
-        peri = (base*3)
-        s = peri / 2
-        area = (s * (s - base) * 3) ** (1 / 2)
-        height = (2 * area) / base
+        height = (3 ** 0.5 / 2) * base
         x = [0, base, base/2, 0]
         y = [0, 0, height, 0]
         plt.title('triangle')
