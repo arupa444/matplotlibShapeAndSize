@@ -16,6 +16,7 @@ The ShapeAndSize library is a Python library built using matplotlib that allows 
 - **Semi-Circle**: Plot and compute area, circumference, and diameter of a semi-circle.
 - **Circle**: Plot and compute area, circumference, and diameter of a circle.
 - **Star**: Plot a star shape.
+- **anyShape**: Plot any kind of shape by taking side and radius as the input.
 
 
 ## Usage
